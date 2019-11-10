@@ -1,0 +1,25 @@
+.bgHeader{
+    background-image: url("../image/amman.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    
+}
+.myImg{
+max-height: 150px;
+max-width: 150px;
+width: 150px;
+height: 150px;
+object-fit: cover;
+display: block;
+border: 3px dotted rgba(196, 64, 13, 0.753);
+padding-bottom: 10px;
+margin: 0px auto;
+}
+
+.items{
+    text-align: center;
+}
+h3{
+    color: rgba(196, 64, 13, 0.753);
+}
